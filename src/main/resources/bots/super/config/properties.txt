@@ -1,0 +1,9 @@
+url:http://www.alicebot.org
+name:FEMA-BOT
+email:joshuasimon656@gmail.com
+gender:male
+botmaster:Joshua
+organization:frontpage community
+version:0.0.4
+gender: female
+
